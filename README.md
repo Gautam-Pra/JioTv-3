@@ -30,14 +30,13 @@ https://gofile.io/d/lXH95t
   * Open Chrome Browser and go to `http://localhost` or `http://localhost/<PATH WHERE YOU HAVE INSTALLED THE SCRIPT>`.
   * Search for a Channel you want to watch and click on Play.
   * A New Chrome Tab will open and Enjoy the Live Channel.
-  
 
-## Please Read the below points carefully before use
+### Please Read the below points carefully before use
 
-#### We do not host any content the streaming links are coming directly from the source.
-#### If you want a demo on Your Laptop/PC before buying it please contact me I will provide you temporary link to test and If you are satisfied then only buy it.
-#### All the channels are Included in this and 99% channels will work, only 1% channels are not Availaible because they are either test channels or Hotstar Channels.
-#### You can run this locally only if you want to Host it you need Indian VPS because of GEO restrictions.
-#### This Repository is not official so if you face any problem you have to contact me and not JioTv.
-#### This project is created just for Educational, Fun and learning purpose only so don't misuse it.
-#### In future I will also add the Catchup TV Option also right now you can watch only Live Channels.
+  * We do not host any content the streaming links are coming directly from the source.
+  * If you want a demo on Your Laptop/PC before buying it please contact me I will provide you temporary link to test and If you are satisfied then only buy it.
+  * All the channels are Included in this and 99% channels will work, only 1% channels are not Availaible because they are either test channels or Hotstar Channels.
+  * You can run this locally only if you want to Host it you need Indian VPS because of GEO restrictions.
+  * This Repository is not official so if you face any problem you have to contact me and not JioTv.
+  * This project is created just for Educational, Fun and learning purpose only so don't misuse it.
+  * In future I will also add the Catchup TV Option also right now you can watch only Live Channels.
