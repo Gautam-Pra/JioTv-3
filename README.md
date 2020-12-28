@@ -9,13 +9,13 @@ https://acrotv.wtf => This is My Another Website (All in One OTT Website watch c
 
 #### Demo Video of JioTv Running on localhost
 
-https://gofile.io/d/lXH95t
+[![Demo Video of JioTv](https://img.youtube.com/vi/-Al0uaV_o8U/0.jpg)](https://www.youtube.com/watch?v=-Al0uaV_o8U)
 
 ### Requirements
 
   * Windows XP/7/8/8.1/10
   * Latest Version of Google Chrome
-  * Latest version of Xampp for Windows (https://www.apachefriends.org/download.html
+  * Latest version of Xampp for Windows (https://www.apachefriends.org/download.html)
   * Allow CORS Extension for Chrome (https://bit.ly/2M7tr4V)
   
 ### Installation
