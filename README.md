@@ -1,11 +1,7 @@
 # JioTv
-Watch all Channels of JioTv on localhost (PHP)
+Watch all Channels of JioTv (HD, Full HD and Catchup also available) on localhost (PHP)
 
-Coming soon for Python Also (With the help of Flask)
-
-If you are Interested in this you can contact me (https://baquir.xyz).
-
-https://acrotv.wtf => This is My Another Website (All in One OTT Website watch content without any Subscription and also it is Ad-Free)
+If you are Interested in this you can contact me here I will show you the demo (https://baquir.xyz).
 
 #### Demo Video of JioTv Running on localhost
 
@@ -34,9 +30,6 @@ https://acrotv.wtf => This is My Another Website (All in One OTT Website watch c
 ### Please Read the below points carefully before use
 
   * We do not host any content the streaming links are coming directly from the source.
-  * If you want a demo on Your Laptop/PC before buying it please contact me I will provide you temporary link to test and If you are satisfied then only buy it.
+  * If you want a demo on Your Laptop/PC please contact me I will provide you temporary link to test.
   * All the channels are Included in this and 99% channels will work, only 1% channels are not Availaible because they are either test channels or Hotstar Channels.
-  * You can run this locally only if you want to Host it you need Indian VPS because of GEO restrictions.
-  * This Repository is not official so if you face any problem you have to contact me and not JioTv.
-  * This project is created just for Educational, Fun and learning purpose only so don't misuse it.
-  * In future I will also add the Catchup TV Option also right now you can watch only Live Channels.
+  * This project is created just for Educational, Fun and learning purpose only and its my personal project so don't misuse it.
