@@ -1,8 +1,6 @@
 # JioTv
 Watch all Channels of JioTv (HD, Full HD and Catchup also available) on localhost (PHP)
 
-If you are Interested in this you can contact me here I will show you the demo (https://baquir.xyz).
-
 #### Demo Video of JioTv Running on localhost
 
 [![Demo Video of JioTv](https://img.youtube.com/vi/-Al0uaV_o8U/0.jpg)](https://www.youtube.com/watch?v=-Al0uaV_o8U)
@@ -19,17 +17,19 @@ If you are Interested in this you can contact me here I will show you the demo (
   * Install Xampp on your Laptop/PC.
   * Paste the Given Scripts in `htdocs` Folder present inside `C://Xampp` or wherever you have installed in your Laptop/PC.
   * Then open the Xampp control panel and Start the Apache Server.
-  * Then Open Google Chrome and Enable Allow CORS Extension for Chrome.
+  * Then Open Google Chrome and Enable Allow CORS Extension (https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en) for Chrome.
+  * To watch Full HD Channels and Catchup TV you have to install (https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en) Mod Header Extension and set two headers `Referer` & `Origin` with value `jiotv.com`.
   
 ### Running Locally
 
   * Open Chrome Browser and go to `http://localhost` or `http://localhost/<PATH WHERE YOU HAVE INSTALLED THE SCRIPT>`.
-  * Search for a Channel you want to watch and click on Play.
+  * Search for a Channel you want to watch and click on the channel name to play.
   * A New Chrome Tab will open and Enjoy the Live Channel.
+  * Some channels have Full HD and catchup also available.
 
 ### Please Read the below points carefully before use
 
   * We do not host any content the streaming links are coming directly from the source.
-  * If you want a demo on Your Laptop/PC please contact me I will provide you temporary link to test.
   * All the channels are Included in this and 99% channels will work, only 1% channels are not Availaible because they are either test channels or Hotstar Channels.
   * This project is created just for Educational, Fun and learning purpose only and its my personal project so don't misuse it.
+  * This is a Open Source Project if you find any change or any bug please let me know.
