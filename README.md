@@ -3,7 +3,7 @@ Watch all Channels of JioTv (HD, Full HD and Catchup also available) on localhos
 
 #### Demo Video of JioTv Running on localhost
 
-[![Demo Video of JioTv](https://img.youtube.com/vi/-Al0uaV_o8U/0.jpg)](https://www.youtube.com/watch?v=-Al0uaV_o8U)
+[![Demo Video of JioTv](https://img.youtube.com/vi/-3-_fe1YWo4/0.jpg)](https://youtu.be/-3-_fe1YWo4)
 
 ### Requirements
 
