@@ -18,7 +18,7 @@ Watch all Channels of JioTv (HD, Full HD and Catchup also available) on localhos
   * Paste the Given Scripts in `htdocs` Folder present inside `C://Xampp` or wherever you have installed in your Laptop/PC.
   * Then open the Xampp control panel and Start the Apache Server.
   * Then Open Google Chrome and Enable Allow CORS Extension (https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en) for Chrome.
-  * To watch Full HD Channels and Catchup TV you have to install (https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en) Mod Header Extension and set two headers `Referer` & `Origin` with value `jiotv.com`.
+  * To watch Full HD Channels and Catchup TV you have to install (https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en) Mod Header Extension and set two Request headers `Referer` & `Origin` with value `jiotv.com` like this -> https://nimb.ws/AjdGsM .
   
 ### Running Locally
 
